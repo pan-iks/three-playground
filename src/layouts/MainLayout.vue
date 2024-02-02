@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Quasar Apps
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
@@ -25,10 +25,8 @@
       bordered
     >
       <q-list>
-        <q-item-label
-          header
-        >
-          Essential Links
+        <q-item-label header>
+          Essential Linkss
         </q-item-label>
 
         <EssentialLink
